@@ -1,2 +1,2 @@
 def connect():
-    prine("connected")
+    print("connected")
